@@ -44,4 +44,8 @@ La aplicación permite:
 - XMLHttpRequest  
 - API REST JSONPlaceholder
 
-## Archivos del proyecto
+## Autor/a
+
+Nombre: Ignacio Alvarado
+Curso: DESARROLLO DE APLICACIONES FULL STACK JAVASCRIPT TRAINEE V2.0
+Fecha: 2026  
